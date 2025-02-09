@@ -1,0 +1,76 @@
+[
+  {
+    "ContainingType": "RecruitmentCore.Controllers.JobController",
+    "Method": "GetJobsAsync",
+    "RelativePath": "api/Job",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RecruitmentCore.Controllers.JobController",
+    "Method": "CreateJobsAsync",
+    "RelativePath": "api/Job",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "jobRequest",
+        "Type": "Recruitment.Application.Mappers.DTOs.JobRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RecruitmentCore.Controllers.JobController",
+    "Method": "UpdateJobAsync",
+    "RelativePath": "api/Job",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "jobRequest",
+        "Type": "Recruitment.Application.Mappers.DTOs.JobRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RecruitmentCore.Controllers.JobController",
+    "Method": "GetJobsByIdAsync",
+    "RelativePath": "api/Job/{Id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RecruitmentCore.Controllers.JobController",
+    "Method": "JobAsync",
+    "RelativePath": "api/Job/{Id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

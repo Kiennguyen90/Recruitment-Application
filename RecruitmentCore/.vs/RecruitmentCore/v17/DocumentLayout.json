@@ -1,0 +1,279 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\NetCore\\RecruitmentApp\\RecruitmentApplication\\RecruitmentCore\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6EFE65E4-6DB8-4A68-9A5B-A9E7B0E3B7F5}|Recruitment.Application\\Recruitment.Application.csproj|e:\\netcore\\recruitmentapp\\recruitmentapplication\\recruitmentcore\\recruitment.application\\mappers\\dtos\\jobrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EFE65E4-6DB8-4A68-9A5B-A9E7B0E3B7F5}|Recruitment.Application\\Recruitment.Application.csproj|solutionrelative:recruitment.application\\mappers\\dtos\\jobrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6CFB43B-EFCF-4E9A-9F2C-56EB9EB21478}|RecruitmentCore\\Recruitment.API.csproj|e:\\netcore\\recruitmentapp\\recruitmentapplication\\recruitmentcore\\recruitmentcore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6CFB43B-EFCF-4E9A-9F2C-56EB9EB21478}|RecruitmentCore\\Recruitment.API.csproj|solutionrelative:recruitmentcore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EFE65E4-6DB8-4A68-9A5B-A9E7B0E3B7F5}|Recruitment.Application\\Recruitment.Application.csproj|e:\\netcore\\recruitmentapp\\recruitmentapplication\\recruitmentcore\\recruitment.application\\interfaces\\icandidateservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EFE65E4-6DB8-4A68-9A5B-A9E7B0E3B7F5}|Recruitment.Application\\Recruitment.Application.csproj|solutionrelative:recruitment.application\\interfaces\\icandidateservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6CFB43B-EFCF-4E9A-9F2C-56EB9EB21478}|RecruitmentCore\\Recruitment.API.csproj|e:\\netcore\\recruitmentapp\\recruitmentapplication\\recruitmentcore\\recruitmentcore\\controllers\\candidatecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6CFB43B-EFCF-4E9A-9F2C-56EB9EB21478}|RecruitmentCore\\Recruitment.API.csproj|solutionrelative:recruitmentcore\\controllers\\candidatecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6CFB43B-EFCF-4E9A-9F2C-56EB9EB21478}|RecruitmentCore\\Recruitment.API.csproj|e:\\netcore\\recruitmentapp\\recruitmentapplication\\recruitmentcore\\recruitmentcore\\controllers\\jobcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6CFB43B-EFCF-4E9A-9F2C-56EB9EB21478}|RecruitmentCore\\Recruitment.API.csproj|solutionrelative:recruitmentcore\\controllers\\jobcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6CFB43B-EFCF-4E9A-9F2C-56EB9EB21478}|RecruitmentCore\\Recruitment.API.csproj|e:\\netcore\\recruitmentapp\\recruitmentapplication\\recruitmentcore\\recruitmentcore\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E6CFB43B-EFCF-4E9A-9F2C-56EB9EB21478}|RecruitmentCore\\Recruitment.API.csproj|solutionrelative:recruitmentcore\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EFE65E4-6DB8-4A68-9A5B-A9E7B0E3B7F5}|Recruitment.Application\\Recruitment.Application.csproj|e:\\netcore\\recruitmentapp\\recruitmentapplication\\recruitmentcore\\recruitment.application\\services\\candidateservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EFE65E4-6DB8-4A68-9A5B-A9E7B0E3B7F5}|Recruitment.Application\\Recruitment.Application.csproj|solutionrelative:recruitment.application\\services\\candidateservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EFE65E4-6DB8-4A68-9A5B-A9E7B0E3B7F5}|Recruitment.Application\\Recruitment.Application.csproj|e:\\netcore\\recruitmentapp\\recruitmentapplication\\recruitmentcore\\recruitment.application\\interfaces\\ijobservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EFE65E4-6DB8-4A68-9A5B-A9E7B0E3B7F5}|Recruitment.Application\\Recruitment.Application.csproj|solutionrelative:recruitment.application\\interfaces\\ijobservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EFE65E4-6DB8-4A68-9A5B-A9E7B0E3B7F5}|Recruitment.Application\\Recruitment.Application.csproj|e:\\netcore\\recruitmentapp\\recruitmentapplication\\recruitmentcore\\recruitment.application\\services\\jobservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EFE65E4-6DB8-4A68-9A5B-A9E7B0E3B7F5}|Recruitment.Application\\Recruitment.Application.csproj|solutionrelative:recruitment.application\\services\\jobservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56709F64-F320-4127-A82A-CD92DA29F1F4}|Infrastructure\\Recruitment.Infrastructure.csproj|e:\\netcore\\recruitmentapp\\recruitmentapplication\\recruitmentcore\\infrastructure\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56709F64-F320-4127-A82A-CD92DA29F1F4}|Infrastructure\\Recruitment.Infrastructure.csproj|solutionrelative:infrastructure\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F0A86BB-36B2-4890-B2D3-57AA432D0266}|Recruitment.Domain\\Recruitment.Domain.csproj|e:\\netcore\\recruitmentapp\\recruitmentapplication\\recruitmentcore\\recruitment.domain\\entities\\candidate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F0A86BB-36B2-4890-B2D3-57AA432D0266}|Recruitment.Domain\\Recruitment.Domain.csproj|solutionrelative:recruitment.domain\\entities\\candidate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F0A86BB-36B2-4890-B2D3-57AA432D0266}|Recruitment.Domain\\Recruitment.Domain.csproj|e:\\netcore\\recruitmentapp\\recruitmentapplication\\recruitmentcore\\recruitment.domain\\entities\\feedback.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F0A86BB-36B2-4890-B2D3-57AA432D0266}|Recruitment.Domain\\Recruitment.Domain.csproj|solutionrelative:recruitment.domain\\entities\\feedback.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F0A86BB-36B2-4890-B2D3-57AA432D0266}|Recruitment.Domain\\Recruitment.Domain.csproj|e:\\netcore\\recruitmentapp\\recruitmentapplication\\recruitmentcore\\recruitment.domain\\interfaces\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F0A86BB-36B2-4890-B2D3-57AA432D0266}|Recruitment.Domain\\Recruitment.Domain.csproj|solutionrelative:recruitment.domain\\interfaces\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56709F64-F320-4127-A82A-CD92DA29F1F4}|Infrastructure\\Recruitment.Infrastructure.csproj|e:\\netcore\\recruitmentapp\\recruitmentapplication\\recruitmentcore\\infrastructure\\repositories\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56709F64-F320-4127-A82A-CD92DA29F1F4}|Infrastructure\\Recruitment.Infrastructure.csproj|solutionrelative:infrastructure\\repositories\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56709F64-F320-4127-A82A-CD92DA29F1F4}|Infrastructure\\Recruitment.Infrastructure.csproj|e:\\netcore\\recruitmentapp\\recruitmentapplication\\recruitmentcore\\infrastructure\\repositories\\candidaterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56709F64-F320-4127-A82A-CD92DA29F1F4}|Infrastructure\\Recruitment.Infrastructure.csproj|solutionrelative:infrastructure\\repositories\\candidaterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ICandidateServices.cs",
+              "DocumentMoniker": "E:\\NetCore\\RecruitmentApp\\RecruitmentApplication\\RecruitmentCore\\Recruitment.Application\\Interfaces\\ICandidateServices.cs",
+              "RelativeDocumentMoniker": "Recruitment.Application\\Interfaces\\ICandidateServices.cs",
+              "ToolTip": "E:\\NetCore\\RecruitmentApp\\RecruitmentApplication\\RecruitmentCore\\Recruitment.Application\\Interfaces\\ICandidateServices.cs",
+              "RelativeToolTip": "Recruitment.Application\\Interfaces\\ICandidateServices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T10:02:43.024Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "JobRequest.cs",
+              "DocumentMoniker": "E:\\NetCore\\RecruitmentApp\\RecruitmentApplication\\RecruitmentCore\\Recruitment.Application\\Mappers\\DTOs\\JobRequest.cs",
+              "RelativeDocumentMoniker": "Recruitment.Application\\Mappers\\DTOs\\JobRequest.cs",
+              "ToolTip": "E:\\NetCore\\RecruitmentApp\\RecruitmentApplication\\RecruitmentCore\\Recruitment.Application\\Mappers\\DTOs\\JobRequest.cs",
+              "RelativeToolTip": "Recruitment.Application\\Mappers\\DTOs\\JobRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T08:47:28.458Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CandidateServices.cs",
+              "DocumentMoniker": "E:\\NetCore\\RecruitmentApp\\RecruitmentApplication\\RecruitmentCore\\Recruitment.Application\\Services\\CandidateServices.cs",
+              "RelativeDocumentMoniker": "Recruitment.Application\\Services\\CandidateServices.cs",
+              "ToolTip": "E:\\NetCore\\RecruitmentApp\\RecruitmentApplication\\RecruitmentCore\\Recruitment.Application\\Services\\CandidateServices.cs",
+              "RelativeToolTip": "Recruitment.Application\\Services\\CandidateServices.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAYAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T10:05:21.062Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CandidateController.cs",
+              "DocumentMoniker": "E:\\NetCore\\RecruitmentApp\\RecruitmentApplication\\RecruitmentCore\\RecruitmentCore\\Controllers\\CandidateController.cs",
+              "RelativeDocumentMoniker": "RecruitmentCore\\Controllers\\CandidateController.cs",
+              "ToolTip": "E:\\NetCore\\RecruitmentApp\\RecruitmentApplication\\RecruitmentCore\\RecruitmentCore\\Controllers\\CandidateController.cs",
+              "RelativeToolTip": "RecruitmentCore\\Controllers\\CandidateController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T09:59:38.748Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "JobController.cs",
+              "DocumentMoniker": "E:\\NetCore\\RecruitmentApp\\RecruitmentApplication\\RecruitmentCore\\RecruitmentCore\\Controllers\\JobController.cs",
+              "RelativeDocumentMoniker": "RecruitmentCore\\Controllers\\JobController.cs",
+              "ToolTip": "E:\\NetCore\\RecruitmentApp\\RecruitmentApplication\\RecruitmentCore\\RecruitmentCore\\Controllers\\JobController.cs",
+              "RelativeToolTip": "RecruitmentCore\\Controllers\\JobController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAoAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T09:42:31.637Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IJobServices.cs",
+              "DocumentMoniker": "E:\\NetCore\\RecruitmentApp\\RecruitmentApplication\\RecruitmentCore\\Recruitment.Application\\Interfaces\\IJobServices.cs",
+              "RelativeDocumentMoniker": "Recruitment.Application\\Interfaces\\IJobServices.cs",
+              "ToolTip": "E:\\NetCore\\RecruitmentApp\\RecruitmentApplication\\RecruitmentCore\\Recruitment.Application\\Interfaces\\IJobServices.cs",
+              "RelativeToolTip": "Recruitment.Application\\Interfaces\\IJobServices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T08:46:27.715Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Candidate.cs",
+              "DocumentMoniker": "E:\\NetCore\\RecruitmentApp\\RecruitmentApplication\\RecruitmentCore\\Recruitment.Domain\\Entities\\Candidate.cs",
+              "RelativeDocumentMoniker": "Recruitment.Domain\\Entities\\Candidate.cs",
+              "ToolTip": "E:\\NetCore\\RecruitmentApp\\RecruitmentApplication\\RecruitmentCore\\Recruitment.Domain\\Entities\\Candidate.cs",
+              "RelativeToolTip": "Recruitment.Domain\\Entities\\Candidate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T08:41:03.04Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Feedback.cs",
+              "DocumentMoniker": "E:\\NetCore\\RecruitmentApp\\RecruitmentApplication\\RecruitmentCore\\Recruitment.Domain\\Entities\\Feedback.cs",
+              "RelativeDocumentMoniker": "Recruitment.Domain\\Entities\\Feedback.cs",
+              "ToolTip": "E:\\NetCore\\RecruitmentApp\\RecruitmentApplication\\RecruitmentCore\\Recruitment.Domain\\Entities\\Feedback.cs",
+              "RelativeToolTip": "Recruitment.Domain\\Entities\\Feedback.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T08:40:47.04Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\NetCore\\RecruitmentApp\\RecruitmentApplication\\RecruitmentCore\\RecruitmentCore\\Program.cs",
+              "RelativeDocumentMoniker": "RecruitmentCore\\Program.cs",
+              "ToolTip": "E:\\NetCore\\RecruitmentApp\\RecruitmentApplication\\RecruitmentCore\\RecruitmentCore\\Program.cs",
+              "RelativeToolTip": "RecruitmentCore\\Program.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAAAC4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T11:14:21.683Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "E:\\NetCore\\RecruitmentApp\\RecruitmentApplication\\RecruitmentCore\\RecruitmentCore\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "RecruitmentCore\\Properties\\launchSettings.json",
+              "ToolTip": "E:\\NetCore\\RecruitmentApp\\RecruitmentApplication\\RecruitmentCore\\RecruitmentCore\\Properties\\launchSettings.json",
+              "RelativeToolTip": "RecruitmentCore\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABoAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-02T18:46:46.45Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "JobServices.cs",
+              "DocumentMoniker": "E:\\NetCore\\RecruitmentApp\\RecruitmentApplication\\RecruitmentCore\\Recruitment.Application\\Services\\JobServices.cs",
+              "RelativeDocumentMoniker": "Recruitment.Application\\Services\\JobServices.cs",
+              "ToolTip": "E:\\NetCore\\RecruitmentApp\\RecruitmentApplication\\RecruitmentCore\\Recruitment.Application\\Services\\JobServices.cs",
+              "RelativeToolTip": "Recruitment.Application\\Services\\JobServices.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAgwEEAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T08:39:33.363Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "GenericRepository.cs",
+              "DocumentMoniker": "E:\\NetCore\\RecruitmentApp\\RecruitmentApplication\\RecruitmentCore\\Infrastructure\\Repositories\\GenericRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Repositories\\GenericRepository.cs",
+              "ToolTip": "E:\\NetCore\\RecruitmentApp\\RecruitmentApplication\\RecruitmentCore\\Infrastructure\\Repositories\\GenericRepository.cs",
+              "RelativeToolTip": "Infrastructure\\Repositories\\GenericRepository.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAgwEoAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T10:59:13.787Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CandidateRepository.cs",
+              "DocumentMoniker": "E:\\NetCore\\RecruitmentApp\\RecruitmentApplication\\RecruitmentCore\\Infrastructure\\Repositories\\CandidateRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Repositories\\CandidateRepository.cs",
+              "ToolTip": "E:\\NetCore\\RecruitmentApp\\RecruitmentApplication\\RecruitmentCore\\Infrastructure\\Repositories\\CandidateRepository.cs",
+              "RelativeToolTip": "Infrastructure\\Repositories\\CandidateRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T10:59:10.281Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IUnitOfWork.cs",
+              "DocumentMoniker": "E:\\NetCore\\RecruitmentApp\\RecruitmentApplication\\RecruitmentCore\\Recruitment.Domain\\Interfaces\\IUnitOfWork.cs",
+              "RelativeDocumentMoniker": "Recruitment.Domain\\Interfaces\\IUnitOfWork.cs",
+              "ToolTip": "E:\\NetCore\\RecruitmentApp\\RecruitmentApplication\\RecruitmentCore\\Recruitment.Domain\\Interfaces\\IUnitOfWork.cs",
+              "RelativeToolTip": "Recruitment.Domain\\Interfaces\\IUnitOfWork.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T10:58:59.639Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "E:\\NetCore\\RecruitmentApp\\RecruitmentApplication\\RecruitmentCore\\Infrastructure\\Repositories\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Repositories\\UnitOfWork.cs",
+              "ToolTip": "E:\\NetCore\\RecruitmentApp\\RecruitmentApplication\\RecruitmentCore\\Infrastructure\\Repositories\\UnitOfWork.cs",
+              "RelativeToolTip": "Infrastructure\\Repositories\\UnitOfWork.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAAE0AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T10:58:41.537Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
